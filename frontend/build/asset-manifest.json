@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/github.io/ClubProject/static/css/main.43e1e073.css",
-    "main.js": "/github.io/ClubProject/static/js/main.1be78592.js",
-    "index.html": "/github.io/ClubProject/index.html",
-    "main.43e1e073.css.map": "/github.io/ClubProject/static/css/main.43e1e073.css.map",
-    "main.1be78592.js.map": "/github.io/ClubProject/static/js/main.1be78592.js.map"
+    "main.css": "/ClubProject/static/css/main.43e1e073.css",
+    "main.js": "/ClubProject/static/js/main.6e471c8c.js",
+    "index.html": "/ClubProject/index.html",
+    "main.43e1e073.css.map": "/ClubProject/static/css/main.43e1e073.css.map",
+    "main.6e471c8c.js.map": "/ClubProject/static/js/main.6e471c8c.js.map"
   },
   "entrypoints": [
     "static/css/main.43e1e073.css",
-    "static/js/main.1be78592.js"
+    "static/js/main.6e471c8c.js"
   ]
 }
